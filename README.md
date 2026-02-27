@@ -1,16 +1,34 @@
-## Hi there 👋
+# What's up, y'all! I'm James 👋
 
-<!--
-**marshalldidit/marshalldidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **product manager and creative technologist** building tools that help people create, connect, and participate.
 
-Here are some ideas to get you started:
+## What I'm working on:
+- 🎨 **A-Doodle-A-Day** — Daily drawing prompts to build creative habits
+- 🌽 **Elote Man** - Voxel animation depicting a South LA neighborhood staple
+- 💼 **Marshall Creative Group LLC** — Product strategy & design for SMBs and non-profit organizations
+- 🎭 Building AI-powered tools with ChatGPT, Claude, Lovable, and Cursor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background:
+- 12+ years in product management at agencies like **Huge, Work & Co, Code & Theory, BCG Digital Ventures**
+- Led products for e-commerce platforms, mobile apps, and 0-to-1 ventures
+- Morehouse College grad passionate about tech that expands access and representation
+
+## Currently learning:
+- AI-powered product development
+- Agentic AI workflows
+- React Native & Next.js
+- Building in public
+
+## Interests:
+- HCI: human-centered AI, accessibility & inclusive Design, health & wellness design
+- Pop culture & entertainment
+- Storytelling (via music, illustration, animation, etc.)
+
+## Connect:
+- 🌐 [marshalldidit.com](https://marshalldidit.com)
+- 📸 [@marshalldidit](https://instagram.com/marshalldidit)
+- 📧 james@marshalldidit.com
+
+---
+
+💡 *"Building systems that shape how people create, connect, and participate"*

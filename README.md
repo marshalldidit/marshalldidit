@@ -1,4 +1,4 @@
-# What's up, y'all! I'm James 👋
+# What's up, y'all! I'm James 👋🏿
 
 I'm a **product manager and creative technologist** building tools that help people create, connect, and participate.
 

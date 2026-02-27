@@ -20,7 +20,7 @@ I'm a **product manager and creative technologist** building tools that help peo
 - Building in public
 
 ## Interests:
-- HCI: human-centered AI, accessibility & inclusive Design, health & wellness design
+- HCI: human-centered AI, accessibility & inclusive design, health & wellness design
 - Pop culture & entertainment
 - Storytelling (via music, illustration, animation, etc.)
 

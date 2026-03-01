@@ -3,7 +3,7 @@
 I'm a **product manager and creative technologist** building tools that help people create, connect, and participate.
 
 ## What I'm working on:
-- 🎨 **A-Doodle-A-Day** — Daily drawing prompts to build creative habits
+- 🎨 **RitualStudio** — Daily drawing prompts to build creative habits
 - 🌽 **Elote Man** - Voxel animation depicting a South LA neighborhood staple
 - 💼 **Marshall Creative Group LLC** — Product strategy & design for SMBs and non-profit organizations
 - 🎭 Building AI-powered tools with ChatGPT, Claude, Lovable, and Cursor

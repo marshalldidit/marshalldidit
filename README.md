@@ -15,7 +15,7 @@ I'm exploring **AI-powered product development** — using AI agents and LLMs to
 - **LLMs:** ChatGPT, Claude (product strategy, research, problem-solving)
 - **AI Coding:** Claude Code, Cursor (rapid prototyping, development)
 
-### AI Media
+### Generative AI Media
 - **Images:** Midjourney, Nano Banana
 - **Video:** Veo, Kling  
 - **Voice:** ElevenLabs

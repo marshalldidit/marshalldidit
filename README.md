@@ -8,6 +8,10 @@ I'm a **product manager and creative technologist** building tools that help peo
 - 💼 **Marshall Creative Group LLC** — Product strategy & design for SMBs and non-profit organizations
 - 🎭 Building AI-powered tools with ChatGPT, Claude, Lovable, and Cursor
 
+## What's up next:
+- 💇🏿‍♂️ **Mane** — A natural hair care coach for Black men
+- 🎭 **MyMuse** - A creative collaboration matchmaking service
+
 ## How I Build
 I'm exploring **AI-powered product development** — using AI agents and LLMs to ship products faster while maintaining design craft and strategic thinking.
 
